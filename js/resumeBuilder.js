@@ -11,7 +11,7 @@ var bio = {
   'name': 'Kristy Johnstone',
   'role': 'Web Developer',
   'contacts': {
-    'email': 'johnstonekristy@gmail.com',
+    'email': '',
     'github': 'kristy-mj',
     'blog': 'http://kristy-mj.github.io',
     'location': 'Wellington'
